@@ -1,5 +1,5 @@
 # PPE-Detection
-This is a project that uses deep learning to detect PPE for construction workers, and this is my graduation research project.
+This is a project that uses deep learning to detect PPE for construction workers.
 
 ## Dataset (2023-07-03 2:20pm Version)
 https://universe.roboflow.com/research-project-i8wzf/ppe-detection-2e7lf/dataset/6 (1,490 images)
